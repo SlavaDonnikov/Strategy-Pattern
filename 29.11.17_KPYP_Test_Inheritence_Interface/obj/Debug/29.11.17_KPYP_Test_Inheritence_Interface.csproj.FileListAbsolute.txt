@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\С#\29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface\bin\Debug\29.11.17_KPYP_Test_Inheritence_Interface.exe.config
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\С#\29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface\bin\Debug\29.11.17_KPYP_Test_Inheritence_Interface.exe
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\С#\29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface\bin\Debug\29.11.17_KPYP_Test_Inheritence_Interface.pdb
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\С#\29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\С#\29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\С#\29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.exe
+C:\Users\User\Desktop\НЕ ТРОГАТЬ!!!\С#\29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.pdb
+E:\C#\29.11.17_KPYP_Pattern Strategy _&_ delegate\29.11.17_KPYP_Test_Inheritence_Interface\bin\Debug\29.11.17_KPYP_Test_Inheritence_Interface.exe.config
+E:\C#\29.11.17_KPYP_Pattern Strategy _&_ delegate\29.11.17_KPYP_Test_Inheritence_Interface\bin\Debug\29.11.17_KPYP_Test_Inheritence_Interface.exe
+E:\C#\29.11.17_KPYP_Pattern Strategy _&_ delegate\29.11.17_KPYP_Test_Inheritence_Interface\bin\Debug\29.11.17_KPYP_Test_Inheritence_Interface.pdb
+E:\C#\29.11.17_KPYP_Pattern Strategy _&_ delegate\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.csprojResolveAssemblyReference.cache
+E:\C#\29.11.17_KPYP_Pattern Strategy _&_ delegate\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.csproj.CoreCompileInputs.cache
+E:\C#\29.11.17_KPYP_Pattern Strategy _&_ delegate\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.exe
+E:\C#\29.11.17_KPYP_Pattern Strategy _&_ delegate\29.11.17_KPYP_Test_Inheritence_Interface\obj\Debug\29.11.17_KPYP_Test_Inheritence_Interface.pdb

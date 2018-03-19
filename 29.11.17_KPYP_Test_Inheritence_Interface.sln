@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29.11.17_KPYP_Test_Inheritence_Interface", "29.11.17_KPYP_Test_Inheritence_Interface\29.11.17_KPYP_Test_Inheritence_Interface.csproj", "{CE12A9C8-10B0-4F75-BEB4-A75EB8F9E531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE12A9C8-10B0-4F75-BEB4-A75EB8F9E531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE12A9C8-10B0-4F75-BEB4-A75EB8F9E531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE12A9C8-10B0-4F75-BEB4-A75EB8F9E531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE12A9C8-10B0-4F75-BEB4-A75EB8F9E531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245E35E0-312A-4118-BC13-B3AC2E858025}
+	EndGlobalSection
+EndGlobal
